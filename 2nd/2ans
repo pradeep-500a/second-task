@@ -1,0 +1,1 @@
+$ sed '/abc/d' cat firt.txt sec.txt
