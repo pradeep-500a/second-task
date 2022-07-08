@@ -1,0 +1,5 @@
+,#!/bin/bash,khmm,#!/bin/bash
+pradeep 24,khmm
+raju 23,ktdm 
+ravi 26,spl
+## echo paste -d ' ' ct new.csv > merge.txt
